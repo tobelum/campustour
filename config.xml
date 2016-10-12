@@ -3,7 +3,7 @@
   <name>Ashesi Campus Tour</name>
   <description>Ashesi Campus Tour</description>
   <author href="http://cordova.io" email="dev@cordova.apache.org">Apache Cordova Team </author>
-  <content src="index1.html" />
+  <content src="index.html" />
   <access origin="*" />
   <vs:features />
   <preference name="SplashScreen" value="screen" />
